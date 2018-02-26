@@ -3,7 +3,7 @@
 //  TConverter
 //
 //  Created by Антон Вовк on 25.02.2018.
-//  Copyright © 2018 Anton Vovk. All rights reserved.
+//  Copyright © 2018 Anton Vovk. All righdts reserved.
 //
 
 import UIKit
